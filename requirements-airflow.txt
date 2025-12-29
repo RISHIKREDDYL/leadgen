@@ -1,0 +1,8 @@
+apache-airflow>=2.7.0
+pandas
+tesserocr
+scrapy
+openpyxl
+python-docx
+pymupdf
+Pillow
